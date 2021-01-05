@@ -1,1 +1,2 @@
-# Schere-Stein-Papier
+# Quiz App 
+by @Konstantin-IOS and @EinsNils
